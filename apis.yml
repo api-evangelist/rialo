@@ -1,9 +1,29 @@
 aid: rialo
 name: Rialo
-description: 'Rialo is a company surfaced as a portfolio company of pantera-capital and added to the API
-  Evangelist network as a stub for enrichment. Sector: crypto. This profile is a lead awaiting the enrichment
-  pipeline.'
+description: 'Rialo is an early-stage Layer 1 blockchain building high-throughput infrastructure
+  with configurable privacy for real-world finance and the emerging agent economy. Developed by
+  Subzero Labs and backed by Pantera Capital, Rialo positions itself as the infrastructure for the
+  next generation of intelligent systems, replacing the fragile stack of off-chain automation with
+  native, event-driven execution. Its architecture spans several first-class capabilities: the Rialo
+  Omni Account (one account that transacts across multiple networks), Rialo Interop (native, fast,
+  cheap cross-chain interoperability), Rialo IPC (Identity, Privacy, and Compliance built in), Rialo
+  Stream (native data feeds for DeFi and real-world assets), and an event-driven Execution Engine
+  supporting reactive transactions and conditional automation. The project is pre-mainnet; its
+  developer surface consists of a dev portal, gated technical documentation, an interactive
+  playground, a Learn hub of technical demos, and an active engineering blog.'
 url: https://raw.githubusercontent.com/api-evangelist/rialo/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://www.rialo.io/images/webclip.png
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -12,10 +32,17 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
 - Crypto
+- Blockchain
+- Layer 1
+- Infrastructure
+- DeFi
+- Real World Assets
+- Web3
+- Privacy
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +52,28 @@ maintainers:
 common:
 - type: Website
   url: https://www.rialo.io/
+- type: DeveloperPortal
+  url: https://www.rialo.io/for-devs
+- type: Documentation
+  url: https://docs.rialo.io/
+- type: Blog
+  url: https://www.rialo.io/blog
+- type: GitHubOrganization
+  url: https://github.com/rialo
+- type: Sandbox
+  name: Rialo Playground
+  url: https://playground.rialo.io/
+- type: TermsOfService
+  url: https://www.rialo.io/terms-of-service
+- type: PrivacyPolicy
+  url: https://www.rialo.io/privacy-policy
+- type: Support
+  name: Discord Community
+  url: https://discord.gg/RialoProtocol
+- type: DomainSecurity
+  url: security/rialo-domain-security.yml
+x-enrichment:
+  date: '2026-07-21'
+  status: minimal
+  artifacts_added: 1
+  pass: local-v1
