@@ -12,6 +12,17 @@ description: 'Rialo is an early-stage Layer 1 blockchain building high-throughpu
   developer surface consists of a dev portal, gated technical documentation, an interactive
   playground, a Learn hub of technical demos, and an active engineering blog.'
 url: https://raw.githubusercontent.com/api-evangelist/rialo/refs/heads/main/apis.yml
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
