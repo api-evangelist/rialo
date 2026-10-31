@@ -64,6 +64,85 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Rialo is a company surfaced as a portfolio company of pantera-capital and added to the API Evangelist network as a stub for enrichment. Sector: crypto. This profile is a lead awaiting the enrichment pipeline.
+Rialo is an early-stage Layer 1 blockchain building high-throughput infrastructure with configurable privacy for real-world finance and the emerging agent economy. Developed by Subzero Labs and backed by Pantera Capital, Rialo positions itself as the infrastructure for the next generation of intelligent systems, replacing the fragile stack of off-chain automation with native, event-driven execution. Its architecture spans several first-class capabilities: the Rialo Omni Account (one account that transacts across multiple networks), Rialo Interop (native, fast, cheap cross-chain interoperability), Rialo IPC (Identity, Privacy, and Compliance built in), Rialo Stream (native data feeds for DeFi and real-world assets), and an event-driven Execution Engine supporting reactive transactions and conditional automation. The project is pre-mainnet; its developer surface consists of a dev portal, gated technical documentation, an interactive playground, a Learn hub of technical demos, and an active engineering blog.
 
-Backed by: pantera-capital — https://www.rialo.io/
+**Areas:** Company · Cryptocurrency · Blockchain · Layer 1 · Infrastructure · DeFi · Real World Assets · Web3 · Privacy
+
+## Rialo on APIs.io
+
+Everything profiled for Rialo is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/rialo/](https://apis.io/providers/rialo/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Rialo Domain Security](https://apis.io/security/rialo/rialo-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.rialo.io/)
+- [Documentation](https://docs.rialo.io/)
+- [Support](https://discord.gg/RialoProtocol)
+- [Blog](https://www.rialo.io/blog)
+- [Terms of service](https://www.rialo.io/terms-of-service)
+- [Privacy policy](https://www.rialo.io/privacy-policy)
+- [GitHub](https://github.com/rialo)
+
+## API Evangelist rating
+
+**Kin Score 13.9** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 2.6 |
+| Developer ergonomics | 23.8 |
+| Access clarity | 21.1 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 13.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/rialo/](https://apis.io/providers/rialo/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Rialo: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/rialo/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
